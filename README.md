@@ -1,2 +1,2 @@
-# Self-Organizing-Map
-We will predict fraud credit card application
+# Fraud Detection
+We will predict fraud credit card application using Self Organizing map
